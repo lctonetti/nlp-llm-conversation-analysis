@@ -3,7 +3,7 @@
 ## Project Overview
 This project demonstrates an end-to-end Natural Language Processing (NLP) pipeline analyzing an unstructured, AI-generated conversation between ten historical and cultural figures. The objective was to evaluate the LLM's prompt adherence, conversational balance, and semantic tone using advanced statistical text processing and interactive network visualization.
 
-**View the Interactive Visualizations in the Notebook:** [INSERT NBVIEWER LINK HERE]
+**View the Interactive Visualizations in the Notebook:** [https://nbviewer.org/github/lctonetti/nlp-llm-conversation-analysis/blob/main/nlp_analysis_llm_dinner_party_conversation.ipynb)]
 
 ## Technical Stack
 * **Languages & Environments:** Python, Jupyter Notebook, Docker
